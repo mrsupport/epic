@@ -1,0 +1,6 @@
+2023-10-20 00:49:58 | INFO    | __main__:stash:125 | run - {'role': 'EpicPlayer', 'headless': True}
+2023-10-20 00:50:05 | INFO    | __main__:claim_epic_games:91 | Try to flush cookie - {'task': 'claim_epic_games'}
+2023-10-20 00:50:09 | INFO    | epic_games.agent:_login:187 | login-with-email - {'url': 'https://www.epicgames.com/id/login?lang=en-US&noHostRedirect=true&redirectUrl=https://store.epicgames.com/en-US/free-games'}
+2023-10-20 00:50:15 | DEBUG    | epic_games.agent:insert_challenge:165 | Attack challenge - {'stage': 'email_exists_prod'}
+2023-10-20 00:50:18 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_unique_object:474 | select model - {'yolo': 'appears_only_once_2309_yolov8s-seg.onnx', 'trident': 'find_unique_object', 'ash': 'please click on the object that appears only once default'}
+2023-10-20 00:50:21 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_unique_object:474 | select model - {'yolo': 'appears_only_once_2309_yolov8s-seg.onnx', 'trident': 'find_unique_object', 'ash': 'please click on the object that appears only once default'}
