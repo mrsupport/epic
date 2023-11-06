@@ -1,8 +1,8 @@
-2023-11-06 06:25:23 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.3', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
-2023-11-06 06:25:35 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Turnip Boy Commits Tax Evasion', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
-2023-11-06 06:25:38 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
-2023-11-06 06:25:47 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-11-06 06:25:50 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
-2023-11-06 06:25:57 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_rank_models:396 | rank model - {'resnet': 'nested_smallest_bird2311.onnx', 'prompt': 'Please click on each image containing the smallest аnimаl.'}
-2023-11-06 06:26:09 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_rank_models:396 | rank model - {'resnet': 'nested_largest_penguin2309.onnx', 'prompt': 'Please click on each image containing the largest аnimal.'}
-2023-11-06 06:26:24 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_rank_models:396 | rank model - {'resnet': 'nested_largest_penguin2309.onnx', 'prompt': 'Please click on each image containing the largest аnimаl.'}
+2023-11-07 06:25:55 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.3', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
+2023-11-07 06:26:00 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Turnip Boy Commits Tax Evasion', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
+2023-11-07 06:26:03 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
+2023-11-07 06:26:09 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-11-07 06:26:11 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
+2023-11-07 06:26:19 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_objects:454 | catch model - {'yolo': 'head_of_the_animal_turtle_2309_yolov8s.onnx', 'ash': "please click on the turtle's head default"}
+2023-11-07 06:26:21 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_objects:454 | catch model - {'yolo': 'head_of_the_animal_turtle_2309_yolov8s.onnx', 'ash': "please click on the turtle's head default"}
+2023-11-07 06:26:27 | SUCCESS    | epic_games.agent:claim_weekly_games:281 | claim_weekly_games - {'action': 'success', 'url': 'https://store.epicgames.com/en-US/cart/success'}
