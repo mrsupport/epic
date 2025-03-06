@@ -1,0 +1,4 @@
+Update 1.0.0
+Fixes:
+-Added Support for All windows
+-Incraesed Overall Speed
