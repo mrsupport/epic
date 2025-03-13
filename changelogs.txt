@@ -1,4 +1,4 @@
-Update 1.0.0f
+Update 1.0.0G
 Fixes:
 -Added Support for All windows
 -Incraesed Overall Speed
