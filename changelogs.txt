@@ -2,4 +2,4 @@ Update 1.0.0G
 Fixes:
 -Added Support for All windows
 -Incraesed Overall Speed
--Fixed a bug with form submission
+-Fixed a bug with data rotation
