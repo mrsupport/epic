@@ -1,5 +1,5 @@
 Update 1.0.0G
 Fixes:
 -Added Support for All windows
--Incraesed Overall Speed
+-Increased Overall Speed
 -Fixed a bug with data rotation
