@@ -1,5 +1,4 @@
-Update 1.0.0G
+Update 1.0.0h
 Fixes:
--Added Support for All windows
--Increased Overall Speed
--Fixed a bug with data rotation
+-Captcha Detection
+-Fixed bug in Rotation
